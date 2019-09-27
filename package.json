@@ -1,0 +1,24 @@
+{
+  "name": "npm-package-test",
+  "version": "1.0.0",
+  "description": "npm-pckg-test hexlet",
+  "main": "file4git-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baikal911/npm-pckg-test.git"
+  },
+  "keywords": [
+    "npm",
+    "test",
+    "hexlet"
+  ],
+  "author": "Mikhail Los",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baikal911/npm-pckg-test/issues"
+  },
+  "homepage": "https://github.com/baikal911/npm-pckg-test#readme"
+}
